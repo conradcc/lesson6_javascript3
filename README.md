@@ -4,19 +4,22 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(July 13, 2018)
 
 ### Student Name:  
-(First and Last Name)
+Emma Conrad
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The goal of the assignment was to build a photo gallery that the user can scroll through and look at the different photos.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://conradcc.github.io/lesson6_javascript3/
+https://github.com/conradcc/lesson6_javascript3
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. In this lesson I learned how to use a a leftArrow function in the photo gallery.
+2. In this lesson I learned how to use a populateFigures function which allows the user to navigate the photos in the gallery.
+3. In this lesson I also learned how to create figure and image elements using lastFigure and document.createElement
+
+
+
